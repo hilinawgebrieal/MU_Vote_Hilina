@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138691940056",
+    "project_id": "hilinaare-21d64",
+    "storage_bucket": "hilinaare-21d64.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138691940056:android:6f851a210b8a1ba2e8d1ad",
+        "android_client_info": {
+          "package_name": "com.example.hilinaare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMOPBqgX_R9SgSsADLI50iv5X1nCurODc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
